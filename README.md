@@ -10,9 +10,7 @@ You can customize it with your own letter, photos, and even add a background son
 This is a birthday project for a friend
 
 ## Link
-- Link to live site [here](https://I-am-sorry-Anjali.netlify.app/)
-
-- Second Link to live site [here](https://I-am-sorry-Anjali.vercel.app/)
+- Link to live site [here](https://I-am-sorry-Anjali.vercel.app/)
 
 Have fun!!!
 
