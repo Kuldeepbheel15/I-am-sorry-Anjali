@@ -12,6 +12,8 @@ This is a birthday project for a friend
 ## Link
 - Link to live site [here](https://I-am-sorry-Anjali.netlify.app/)
 
+- Second Link to live site [here](https://I-am-sorry-Anjali.vercel.app/)
+
 Have fun!!!
 
 ---
